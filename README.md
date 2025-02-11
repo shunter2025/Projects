@@ -2,7 +2,7 @@
 
 
 ## Featured Projects
-### [USALCO Internship Presentation] (https://1drv.ms/p/c/9116f1c401b90be8/QegLuQHE8RYggJEvdwAAAAAAoH4InP2H3_nrPA)
+### [USALCO Internship Presentation](https://1drv.ms/p/c/9116f1c401b90be8/QegLuQHE8RYggJEvdwAAAAAAoH4InP2H3_nrPA)
 Helped lead webinar on the Total Cost Treatment Method for water treatment.
 
 ### [Webinar for USALCO](https://www.youtube.com/watch?v=rIiR038yl0Q)
