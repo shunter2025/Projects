@@ -8,7 +8,7 @@ Presented to CEO and upper management of USALCO on internship findings.
 ### [Webinar for USALCO](https://www.youtube.com/watch?v=rIiR038yl0Q)
 Helped lead webinar on the Total Cost Treatment Method for water treatment.
 
-### [Dentist Website](https://github.com/shunter2025/dentist-website)
+### [Dentist Website](https://pittsburghdentist.godaddysites.com/)
 An appointment booking system built with WordPress and MySQL. (not being web hosted yet)
 
 ### [Capstone Paper](https://1drv.ms/w/c/9116f1c401b90be8/EegLuQHE8RYggJEDjgAAAAABTs41O2Jeeltb_PepxzBnCw?e=hhqzmq)
